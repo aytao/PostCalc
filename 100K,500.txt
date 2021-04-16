@@ -1,0 +1,41 @@
+Normal Input
+____________________
+Before simulations
+Number of inversions: 2501835988
+Weighted inversions: 2245723441
+Average pair difference: 336.657
+
+After ELO simulation
+Number of inversions after simulation: 281546949
+Weighted inversions after simulation: 916544650
+Average pair difference after simulation: 55.800
+
+After PostCalc simulation
+Number of inversions after simulation: 157060992
+Weighted inversions after simulation: 290230658
+Average pair difference after simulation: 32.026
+
+Average Ratings
+Elo: 1500
+PostCalc: 1499
+
+
+Malicious Input
+____________________
+Number of inversions: 3752482434
+Weighted inversions before simulation: 16809043606
+Average pair difference: 112.498
+
+After ELO simulation
+Number of inversions after simulation: 2736285732
+Weighted inversions after simulation: 34229894710
+Average pair difference after simulation: 32.096
+
+After PostCalc simulation
+Number of inversions after simulation: 223104190
+Weighted inversions after simulation: 288375061
+Average pair difference after simulation: 30.058
+
+Average Ratings
+Elo: 1500
+PostCalc: 1499
