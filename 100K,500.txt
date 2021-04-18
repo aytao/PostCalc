@@ -1,0 +1,42 @@
+Normal Input
+____________________
+Before simulations
+Number of inversions: 0
+Total weight of inversions: 0
+Average skill difference: 339.870
+
+After ELO simulation
+Number of inversions: 220920701
+Total weight of inversions: 816479786
+Average skill difference: 55.902
+
+After PostCalc simulation
+Number of inversions: 147199689
+Total weight of inversions: 285618052
+Average skill difference: 31.834
+
+Average Ratings
+Elo: 1500.000
+PostCalc: 1501.344
+
+
+Malicious Input
+____________________
+Before simulations
+Number of inversions: 2500000000
+Total weight of inversions: 34552359552
+Average skill difference: 113.045
+
+After ELO simulation
+Number of inversions: 2698622293
+Total weight of inversions: 34850838817
+Average skill difference: 32.034
+
+After PostCalc simulation
+Number of inversions: 211674270
+Total weight of inversions: 286315695
+Average skill difference: 30.205
+
+Average Ratings
+Elo: 1500.000
+PostCalc: 1499.488
